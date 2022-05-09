@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+import React from 'react';
+import {Button,Grid,TextField,Paper,Link} from '@material-ui/core'
+import HeaderComponent from './components/HeaderComponent/HeaderComponent';
+import ContectComponent from './components/HeaderComponent/ContectComponent';
+import About from './components/BodyCommponent/About';
+import Portfolio from './components/BodyCommponent/Portfolio';
+import Contect from './components/BodyCommponent/Contect';
+import Footer from './components/BodyCommponent/Footer';
+const App = () =>{
+  return(
+    <>
+    <HeaderComponent />
+    <About />
+    <Portfolio />
+    <Contect />
+    <Footer />
+ </>
   );
 }
-
 export default App;

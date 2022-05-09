@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MuhammadLateef/Material_UI_Project.git/static/css/main.dd42c7dc.css",
+    "main.js": "/MuhammadLateef/Material_UI_Project.git/static/js/main.0905605e.js",
+    "static/media/img1002.jpg": "/MuhammadLateef/Material_UI_Project.git/static/media/img1002.dbb44424abc4d5177cb4.jpg",
+    "static/media/img1010.jpg": "/MuhammadLateef/Material_UI_Project.git/static/media/img1010.6721763e3bf7ab77a44c.jpg",
+    "static/media/img1009.jpg": "/MuhammadLateef/Material_UI_Project.git/static/media/img1009.5cd35516748790fb6a3d.jpg",
+    "static/media/img1015.jpg": "/MuhammadLateef/Material_UI_Project.git/static/media/img1015.84cf2249a7663a539346.jpg",
+    "static/media/img1016.jpg": "/MuhammadLateef/Material_UI_Project.git/static/media/img1016.e32ff8b7f1ded5eaf2fe.jpg",
+    "static/media/img1008.jpg": "/MuhammadLateef/Material_UI_Project.git/static/media/img1008.18701fa1e32358a76bff.jpg",
+    "static/media/img1007.jpg": "/MuhammadLateef/Material_UI_Project.git/static/media/img1007.aa1720e5c9be97da28ff.jpg",
+    "static/media/profile_image.jpeg": "/MuhammadLateef/Material_UI_Project.git/static/media/profile_image.fd6b8d6d514fd03872f5.jpeg",
+    "index.html": "/MuhammadLateef/Material_UI_Project.git/index.html",
+    "main.dd42c7dc.css.map": "/MuhammadLateef/Material_UI_Project.git/static/css/main.dd42c7dc.css.map",
+    "main.0905605e.js.map": "/MuhammadLateef/Material_UI_Project.git/static/js/main.0905605e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd42c7dc.css",
+    "static/js/main.0905605e.js"
+  ]
+}
